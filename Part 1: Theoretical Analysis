@@ -1,0 +1,37 @@
+Q1: How Edge AI reduces latency and enhances privacy (with example)
+Edge AI processes data locally on devices instead of sending it to remote cloud servers. This drastically reduces latency because data doesn’t travel long distances — decisions happen in real time, which is critical for time-sensitive tasks.
+
+Edge AI also enhances privacy by keeping sensitive data (like personal video or health information) on-device rather than transmitting it over the internet, which lowers the risk of interception or misuse.
+
+Example:
+Autonomous drones use Edge AI to detect obstacles, adjust flight paths, and respond instantly to changing environments. Without Edge AI, drones would rely on cloud processing, introducing delays that could cause crashes or safety risks.
+
+Q2: Compare Quantum AI vs Classical AI for optimization problems
+Classical AI uses algorithms and computing power constrained by binary bits. It handles optimization by exhaustively searching possible solutions or using heuristics, but large-scale problems quickly become computationally expensive.
+
+Quantum AI leverages quantum bits (qubits) that exist in multiple states simultaneously, allowing massive parallelism. Quantum algorithms like the Quantum Approximate Optimization Algorithm (QAOA) can tackle complex optimization tasks exponentially faster than classical methods.
+
+Industries that benefit:
+
+Logistics (route and supply chain optimization)
+
+Pharmaceuticals (protein folding, drug discovery)
+
+Finance (portfolio optimization)
+
+Energy (smart grid management)
+
+Q3: Societal impact of Human-AI collaboration in healthcare
+Human-AI collaboration in healthcare blends AI’s processing power with human empathy and judgment. For radiologists, AI can scan thousands of images to flag anomalies, enabling faster and more accurate diagnoses. Instead of replacing radiologists, it augments them — freeing up time for complex cases and patient interaction.
+
+For nurses, AI-powered monitoring tools can track patient vitals in real-time, detect early warning signs, and automate routine documentation, letting nurses focus more on patient care and well-being.
+
+This shift transforms healthcare roles: repetitive tasks are automated while human expertise, decision-making, and compassion remain central.
+
+Case Study Critique: AI in Smart Cities
+Integration of AI and IoT for Traffic Management:
+AI analyzes traffic data from IoT sensors in real-time to optimize traffic lights, reduce congestion, and predict accidents. This improves fuel efficiency, lowers emissions, and enhances urban mobility — key factors in making cities more sustainable.
+
+Two Challenges:
+1️⃣ Data Security: Massive IoT data streams create many entry points for hackers. Ensuring secure communication and storage is critical.
+2️⃣ Interoperability: Integrating diverse IoT devices from different vendors can be complex, leading to inefficiencies if systems don’t communicate seamlessly.
